@@ -9,6 +9,7 @@ Each lab focuses on a different aspect of the Model Predictive Control, ranging 
 - **2023-10-30.** Recap of previous topics and demonstration of the control of a paper machine.
 - **2023-11-13.** Recap of previous topics and demonstration of the control of a 2-DOF helicopter, including dynamic reference tracking.
 - **2023-11-20.** Introduction to the non linear Model Predictive Control in MATLAB, with an example on the trajectory planning and control of a differential drive vehicle.
+- **2023-12-11.** Recap of previous topics, analysis of cost and computational time and demonstration of the control of a truck and trailer vehicle.
 
 ## License
 This repository is licensed under the [MIT License](LICENSE).
